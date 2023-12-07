@@ -1,6 +1,12 @@
-#!/bin/bash
+"""
+    Shell Script for Longest Path Project
+    Name:  Megan Hinkel 
+    Date:  11/29/2023  
+    References: https://www.geeksforgeeks.org/longest-path-in-a-directed-acyclic-graph-dynamic-programming/
+    I used AI to help generate this shell script.
 
-# Assuming your Python script is named "your_python_script.py"
+"""
+
 PYTHON_SCRIPT="exact_solution.py"
 
 # Check if the Python script exists
