@@ -1,0 +1,21 @@
+20 20
+a b 1
+b c 1
+c d 1
+d e 1
+e f 1
+a h 2
+h i 2
+i j 2
+j k 2
+k l 2
+a m 3
+m n 3
+n o 3
+o p 3
+p q 3
+a f 5
+b p 5
+k o 3
+i f 10
+f o 10

@@ -1,0 +1,16 @@
+15 15
+a b 2
+b c 2
+c d 2
+a c 5
+c e 20
+e f 2
+f g 1
+a i 2
+g h 3
+h i 4
+i j 3
+c i 3
+c g 2
+d e 4
+j k 5

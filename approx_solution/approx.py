@@ -25,7 +25,7 @@ def greedyLongestPath():
         print("No path exists.")
 
 
-if __name__ == '__main__':
+def main():
     n, m = map(int, input().split())
     V, visited = n, [False for i in range(n)]
     adj = {chr(ord('a') + i): [] for i in range(n)}
@@ -35,3 +35,7 @@ if __name__ == '__main__':
         adj[u].append([v, int(w)])
 
     greedyLongestPath()
+
+
+if __name__ == '__main__':
+    main()
