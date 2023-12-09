@@ -1,0 +1,2 @@
+Yes, a path exists with distance 43
+Path taken: ['a', 'c', 'e', 'f', 'g', 'h', 'i', 'j', 'k']

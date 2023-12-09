@@ -1,0 +1,2 @@
+Yes, a path exists with distance 7
+Path taken: ['a', 'b', 'c']
